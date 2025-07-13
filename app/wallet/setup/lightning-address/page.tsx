@@ -16,7 +16,7 @@ import { Alert, AlertDescription } from '@/components/ui/alert'
 import { useWallet } from '@/providers/wallet'
 import { ArrowLeft, Zap, CheckCircle } from 'lucide-react'
 
-const PUBLIC_DOMAIN = process.env.NEXT_PUBLIC_DOMAIN || 'localhost:3000'
+const PUBLIC_DOMAIN = process.env.NEXT_PUBLIC_DOMAIN || 'lnbucks.com'
 
 export default function LightningAddressSetupPage() {
   const [username, setUsername] = useState('')

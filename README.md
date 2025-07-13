@@ -63,7 +63,7 @@ pnpm dev
 
 3. **Open your browser:**
 
-Visit [http://localhost:3000](http://localhost:3000) to see the app.
+Visit [https://lnbucks.com](https://lnbucks.com) to see the app.
 
 ## License
 

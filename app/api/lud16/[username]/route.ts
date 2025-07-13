@@ -1,7 +1,7 @@
 import { LUD06Response } from '@/types/lnurl'
 import { NextRequest, NextResponse } from 'next/server'
 
-const ENDPOINT = process.env.NEXT_PUBLIC_ENDPOINT || 'http://localhost:3000'
+const ENDPOINT = process.env.NEXT_PUBLIC_ENDPOINT || 'https://lnbucks.com'
 
 export async function GET(
   req: NextRequest,
@@ -13,7 +13,7 @@ export async function GET(
   // LUD-16 (LNURLp) response
   // See: https://github.com/lnurl/luds/blob/luds/lud-16.md
   // Example response fields
-  const domain = req.headers.get('host') || 'localhost:3000'
+  const domain = req.headers.get('host') || 'lnbucks.com'
   const callback = `${ENDPOINT}/api/lud16/${username}/cb`
 
   return NextResponse.json({

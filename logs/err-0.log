@@ -1,0 +1,15 @@
+2025-07-11T18:25:11: Sendy configuration missing
+2025-07-11T18:25:36: Sendy configuration missing
+2025-07-11T18:29:03: Sendy configuration missing
+2025-07-11T18:29:29: Sendy configuration missing
+2025-07-12T07:46:18:  ⨯ TypeError: Cannot read properties of undefined (reading 'indexOf')
+    at rN (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:61512)
+    at new io (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:67697)
+    at new ia (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:73202)
+    at new sj (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:126322)
+    at new sY (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:143988)
+    at handler (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\app\api\lud16\[username]\cb\route.js:1:761)
+    at fn (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\next-server\webpack:\next\dist\esm\server\future\route-modules\app-route\module.js:195:43)
+    at C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\src\server\lib\trace\tracer.ts:313:28
+    at NoopContextManager.with (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\@opentelemetry\api\index.js:1:7062)
+    at ContextAPI.with (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\@opentelemetry\api\index.js:1:518)

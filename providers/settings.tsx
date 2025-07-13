@@ -20,8 +20,8 @@ export const SettingsContext = createContext<SettingsContextType | undefined>(
 export function SettingsProvider({ children }: { children: ReactNode }) {
   const [isLoading, setIsLoading] = useState<boolean>(false)
   const [settings, setSettings] = useState<Settings>({
-    domain: process.env.NEXT_PUBLIC_DOMAIN || 'localhost:3000',
-    url: process.env.NEXT_PUBLIC_ENDPOINT || 'http://localhost:3000'
+    domain: process.env.NEXT_PUBLIC_DOMAIN || 'lnbucks.com',
+    url: process.env.NEXT_PUBLIC_ENDPOINT || 'https://lnbucks.com'
   })
 
   const updateSettings = useCallback((newSettings: Partial<Settings>) => {

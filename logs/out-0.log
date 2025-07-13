@@ -1,0 +1,168 @@
+2025-07-11T17:08:22:   ▲ Next.js 14.2.16
+2025-07-11T17:08:22:   - Local:        http://localhost:3000
+2025-07-11T17:08:22: 
+2025-07-11T17:08:22:  ✓ Starting...
+2025-07-11T17:08:22:  ✓ Ready in 418ms
+2025-07-11T17:13:05:   ▲ Next.js 14.2.16
+2025-07-11T17:13:05:   - Local:        http://localhost:3000
+2025-07-11T17:13:05: 
+2025-07-11T17:13:05:  ✓ Starting...
+2025-07-11T17:13:05:  ✓ Ready in 407ms
+2025-07-11T17:21:24:   ▲ Next.js 14.2.16
+2025-07-11T17:21:24:   - Local:        http://localhost:3000
+2025-07-11T17:21:24: 
+2025-07-11T17:21:24:  ✓ Starting...
+2025-07-11T17:21:24:  ✓ Ready in 386ms
+2025-07-11T17:22:51:   ▲ Next.js 14.2.16
+2025-07-11T17:22:51:   - Local:        http://localhost:3000
+2025-07-11T17:22:51: 
+2025-07-11T17:22:51:  ✓ Starting...
+2025-07-11T17:22:51:  ✓ Ready in 378ms
+2025-07-11T17:28:39:   ▲ Next.js 14.2.16
+2025-07-11T17:28:39:   - Local:        http://localhost:3000
+2025-07-11T17:28:39: 
+2025-07-11T17:28:39:  ✓ Starting...
+2025-07-11T17:28:39:  ✓ Ready in 381ms
+2025-07-11T17:37:31:   ▲ Next.js 14.2.16
+2025-07-11T17:37:31:   - Local:        http://localhost:3000
+2025-07-11T17:37:31: 
+2025-07-11T17:37:31:  ✓ Starting...
+2025-07-11T17:37:31:  ✓ Ready in 367ms
+2025-07-11T17:42:17:   ▲ Next.js 14.2.16
+2025-07-11T17:42:17:   - Local:        http://localhost:3000
+2025-07-11T17:42:17: 
+2025-07-11T17:42:17:  ✓ Starting...
+2025-07-11T17:42:17:  ✓ Ready in 374ms
+2025-07-11T17:49:17:   ▲ Next.js 14.2.16
+2025-07-11T17:49:17:   - Local:        http://localhost:3000
+2025-07-11T17:49:17: 
+2025-07-11T17:49:17:  ✓ Starting...
+2025-07-11T17:49:17:  ✓ Ready in 405ms
+2025-07-11T17:54:47:   ▲ Next.js 14.2.16
+2025-07-11T17:54:47:   - Local:        http://localhost:80
+2025-07-11T17:54:47: 
+2025-07-11T17:54:47:  ✓ Starting...
+2025-07-11T17:54:47:  ✓ Ready in 362ms
+2025-07-11T17:56:56:   ▲ Next.js 14.2.16
+2025-07-11T17:56:56:   - Local:        http://localhost:80
+2025-07-11T17:56:56: 
+2025-07-11T17:56:56:  ✓ Starting...
+2025-07-11T17:56:56:  ✓ Ready in 386ms
+2025-07-11T18:00:16:   ▲ Next.js 14.2.16
+2025-07-11T18:00:16:   - Local:        http://localhost:80
+2025-07-11T18:00:16: 
+2025-07-11T18:00:16:  ✓ Starting...
+2025-07-11T18:00:16:  ✓ Ready in 378ms
+2025-07-11T18:17:29:   ▲ Next.js 14.2.16
+2025-07-11T18:17:29:   - Local:        http://localhost:80
+2025-07-11T18:17:29: 
+2025-07-11T18:17:29:  ✓ Starting...
+2025-07-11T18:17:29:  ✓ Ready in 425ms
+2025-07-11T18:25:11: POST request received
+2025-07-11T18:25:11: Request body: { email: 'efrain77@tf-info.com', name: undefined }
+2025-07-11T18:25:11: Environment variables: {
+  SENDY_URL: undefined,
+  SENDY_LIST_ID: undefined,
+  SENDY_API_KEY: undefined
+}
+2025-07-11T18:25:36: POST request received
+2025-07-11T18:25:36: Request body: { email: 'efrain77@tf-info.com', name: undefined }
+2025-07-11T18:25:36: Environment variables: {
+  SENDY_URL: undefined,
+  SENDY_LIST_ID: undefined,
+  SENDY_API_KEY: undefined
+}
+2025-07-11T18:29:03: POST request received
+2025-07-11T18:29:03: Request body: { email: 'raoul90@tf-info.com', name: undefined }
+2025-07-11T18:29:03: Environment variables: {
+  SENDY_URL: undefined,
+  SENDY_LIST_ID: undefined,
+  SENDY_API_KEY: undefined
+}
+2025-07-11T18:29:29: POST request received
+2025-07-11T18:29:29: Request body: { email: 'raoul90@tf-info.com', name: undefined }
+2025-07-11T18:29:29: Environment variables: {
+  SENDY_URL: undefined,
+  SENDY_LIST_ID: undefined,
+  SENDY_API_KEY: undefined
+}
+2025-07-12T07:27:02:   ▲ Next.js 14.2.16
+2025-07-12T07:27:02:   - Local:        http://localhost:80
+2025-07-12T07:27:02: 
+2025-07-12T07:27:02:  ✓ Starting...
+2025-07-12T07:27:02:  ✓ Ready in 388ms
+2025-07-12T07:35:23:   ▲ Next.js 14.2.16
+2025-07-12T07:35:23:   - Local:        http://localhost:80
+2025-07-12T07:35:23: 
+2025-07-12T07:35:23:  ✓ Starting...
+2025-07-12T07:35:23:  ✓ Ready in 370ms
+2025-07-12T07:37:13: 'id'
+2025-07-12T07:46:00: LUD16 username: jp
+2025-07-12T07:46:18: LUD16 username: jp
+2025-07-12T07:46:27: LUD16 username: jp
+2025-07-12T07:47:06: TypeError: Cannot read properties of undefined (reading 'indexOf')
+    at rN (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:61512)
+    at new io (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:67697)
+    at new ia (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:73202)
+    at new sj (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:126322)
+    at new sY (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:143988)
+    at handler (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\app\api\cards\[id]\scan\cb\route.js:1:1031)
+    at fn (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\next-server\webpack:\next\dist\esm\server\future\route-modules\app-route\module.js:195:43)
+    at C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\src\server\lib\trace\tracer.ts:313:28
+    at NoopContextManager.with (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\@opentelemetry\api\index.js:1:7062)
+    at ContextAPI.with (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\@opentelemetry\api\index.js:1:518)
+2025-07-12T07:47:20: TypeError: Cannot read properties of undefined (reading 'indexOf')
+    at rN (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:61512)
+    at new io (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:67697)
+    at new ia (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:73202)
+    at new sj (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:126322)
+    at new sY (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:143988)
+    at handler (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\app\api\cards\[id]\scan\cb\route.js:1:1031)
+    at fn (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\next-server\webpack:\next\dist\esm\server\future\route-modules\app-route\module.js:195:43)
+    at C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\src\server\lib\trace\tracer.ts:313:28
+    at NoopContextManager.with (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\@opentelemetry\api\index.js:1:7062)
+    at ContextAPI.with (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\@opentelemetry\api\index.js:1:518)
+2025-07-12T08:07:32: TypeError: Cannot read properties of undefined (reading 'indexOf')
+    at rN (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:61512)
+    at new io (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:67697)
+    at new ia (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:73202)
+    at new sj (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:126322)
+    at new sY (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:143988)
+    at handler (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\app\api\cards\[id]\scan\cb\route.js:1:1031)
+    at fn (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\next-server\webpack:\next\dist\esm\server\future\route-modules\app-route\module.js:195:43)
+    at C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\src\server\lib\trace\tracer.ts:313:28
+    at NoopContextManager.with (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\@opentelemetry\api\index.js:1:7062)
+    at ContextAPI.with (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\@opentelemetry\api\index.js:1:518)
+2025-07-12T08:08:15: TypeError: Cannot read properties of undefined (reading 'indexOf')
+    at rN (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:61512)
+    at new io (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:67697)
+    at new ia (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:73202)
+    at new sj (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:126322)
+    at new sY (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:143988)
+    at handler (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\app\api\cards\[id]\scan\cb\route.js:1:1031)
+    at fn (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\next-server\webpack:\next\dist\esm\server\future\route-modules\app-route\module.js:195:43)
+    at C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\src\server\lib\trace\tracer.ts:313:28
+    at NoopContextManager.with (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\@opentelemetry\api\index.js:1:7062)
+    at ContextAPI.with (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\@opentelemetry\api\index.js:1:518)
+2025-07-12T08:08:46: TypeError: Cannot read properties of undefined (reading 'indexOf')
+    at rN (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:61512)
+    at new io (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:67697)
+    at new ia (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:73202)
+    at new sj (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:126322)
+    at new sY (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:143988)
+    at handler (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\app\api\cards\[id]\scan\cb\route.js:1:1031)
+    at fn (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\next-server\webpack:\next\dist\esm\server\future\route-modules\app-route\module.js:195:43)
+    at C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\src\server\lib\trace\tracer.ts:313:28
+    at NoopContextManager.with (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\@opentelemetry\api\index.js:1:7062)
+    at ContextAPI.with (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\@opentelemetry\api\index.js:1:518)
+2025-07-12T08:33:01: TypeError: Cannot read properties of undefined (reading 'indexOf')
+    at rN (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:61512)
+    at new io (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:67697)
+    at new ia (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:73202)
+    at new sj (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:126322)
+    at new sY (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\chunks\209.js:1:143988)
+    at handler (C:\Users\JuanPabloGaviria\git\boltcard-nwc\.next\server\app\api\cards\[id]\scan\cb\route.js:1:1031)
+    at fn (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\next-server\webpack:\next\dist\esm\server\future\route-modules\app-route\module.js:195:43)
+    at C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\src\server\lib\trace\tracer.ts:313:28
+    at NoopContextManager.with (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\@opentelemetry\api\index.js:1:7062)
+    at ContextAPI.with (C:\Users\JuanPabloGaviria\git\boltcard-nwc\node_modules\.pnpm\next@14.2.16_react-dom@18.0.0_react@18.0.0__react@18.0.0\node_modules\next\dist\compiled\@opentelemetry\api\index.js:1:518)

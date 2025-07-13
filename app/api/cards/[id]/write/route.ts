@@ -4,7 +4,7 @@ import type { Ntag424WriteData } from '@/types/ntag424'
 import { mockCardData } from '@/mocks/card'
 import { cardToNtag424WriteData } from '@/lib/ntag424'
 
-const domain = process.env.NEXT_PUBLIC_DOMAIN || 'localhost:3000'
+const domain = process.env.NEXT_PUBLIC_DOMAIN || 'lnbucks.com'
 
 export async function OPTIONS() {
   return new NextResponse(null, {
